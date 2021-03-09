@@ -33,7 +33,7 @@ fun Primes() {
     LazyVerticalGrid(
         modifier = Modifier
             .fillMaxSize()
-            .background(Color(0xFFAD1457))
+            .background(Color(0xFFE53935))
             .padding(8.dp),
         cells = GridCells.Fixed(10),
     ) {
